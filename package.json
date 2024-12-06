@@ -1,5 +1,5 @@
 {
-  "name": "til-react",
+  "name": "week1-team-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,8 +13,6 @@
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
     "axios": "^1.7.8",
-    "json-server": "^1.0.0-beta.3",
-    "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.2",
@@ -35,5 +33,6 @@
     "prettier": "^3.3.3",
     "sass": "^1.81.0",
     "vite": "^5.4.10"
-  }
+  },
+  "proxy": ""
 }
