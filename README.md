@@ -37,12 +37,12 @@ week1-team-project
 
 1. 김기동
 
-   > main
+   > main 영역
 
 2. 이유석
 
-   > footer
+   > footer 영역
 
 3. 이한샘
 
-   > header
+   > header 영역
