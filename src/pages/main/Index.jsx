@@ -4,6 +4,7 @@ import ImgSlider from "./imgSlider";
 import SectionWrap from "./SectionWrap";
 import { MainLayout } from "../main//MainLayout";
 
+
 function Index() {
   return (
     <MainLayout>
