@@ -1,7 +1,7 @@
-import Header from "./header/Index";
+import Header from "../components/header/Index";
 import Main from "./main/Index";
-import Footer from "./footer/Index";
-import Layout from "./layout";
+import Footer from "../components/footer/Index";
+import { Layout } from "./layout";
 
 const Index = () => {
   return (

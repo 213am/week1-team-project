@@ -1,5 +1,5 @@
 // 푸터영역 출력부 입니다
-import "../footer/footer.css";
+import "./footer.js";
 
 function Index() {
   return <div></div>;
