@@ -1,13 +1,12 @@
-import './App.css'
+import "./App.css";
+import Index from "./pages/Index";
 
 function App() {
-
-
   return (
     <>
-     <div>1차 팀 프로젝트</div>
+      <Index />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
