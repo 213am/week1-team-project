@@ -12,3 +12,36 @@
 
 3. 이한샘
    >
+
+```
+week1-team-project
+├─ .prettierrc
+├─ eslint.config.js
+├─ index.html
+├─ package-lock.json
+├─ package.json
+├─ public
+│  └─ vite.svg
+├─ README.md
+├─ src
+│  ├─ App.css
+│  ├─ App.jsx
+│  ├─ assets
+│  ├─ components
+│  ├─ index.css
+│  ├─ main.jsx
+│  └─ pages
+│     ├─ footer
+│     │  ├─ footer.css
+│     │  └─ Index.jsx
+│     ├─ header
+│     │  ├─ header.css
+│     │  └─ Index.jsx
+│     ├─ Index.jsx
+│     ├─ layout.js
+│     └─ main
+│        ├─ Index.jsx
+│        └─ main.css
+└─ vite.config.js
+
+```
