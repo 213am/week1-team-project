@@ -1,5 +1,5 @@
 // 메인영역 출력부 입니다
-import "../main/main.css";
+import "./main.js";
 
 function Index() {
   return <div></div>;
