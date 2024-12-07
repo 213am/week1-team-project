@@ -1,6 +1,7 @@
 import styled from "@emotion/styled";
 
 export const Layout = styled.div`
+  position: relative;
   display: flex;
   position: relative;
   width: 1200px;
